@@ -1,7 +1,7 @@
-import { SearchEngine } from "@/components/SearchEngine";
+import { RealSearchEngine } from "@/components/RealSearchEngine";
 
 const Index = () => {
-  return <SearchEngine />;
+  return <RealSearchEngine />;
 };
 
 export default Index;
